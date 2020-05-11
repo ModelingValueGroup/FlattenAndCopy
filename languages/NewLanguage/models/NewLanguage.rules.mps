@@ -56,7 +56,6 @@
       <concept id="1068580123155" name="jetbrains.mps.baseLanguage.structure.ExpressionStatement" flags="nn" index="3clFbF">
         <child id="1068580123156" name="expression" index="3clFbG" />
       </concept>
-      <concept id="1068580123157" name="jetbrains.mps.baseLanguage.structure.Statement" flags="nn" index="3clFbH" />
       <concept id="1068581242875" name="jetbrains.mps.baseLanguage.structure.PlusExpression" flags="nn" index="3cpWs3" />
       <concept id="1081773326031" name="jetbrains.mps.baseLanguage.structure.BinaryOperation" flags="nn" index="3uHJSO">
         <child id="1081773367579" name="rightExpression" index="3uHU7w" />
@@ -391,10 +390,6 @@
           </node>
         </node>
       </node>
-    </node>
-    <node concept="1FPxxo" id="2CA5u7EMVjK" role="1FPzNG" />
-    <node concept="3tBE6w" id="4pEKUZqGxsj" role="1FPzNG">
-      <node concept="3clFbH" id="4pEKUZqHmIP" role="30jUnX" />
     </node>
     <node concept="1FPxxo" id="2CA5u7EMVjL" role="1FPzNG" />
   </node>
